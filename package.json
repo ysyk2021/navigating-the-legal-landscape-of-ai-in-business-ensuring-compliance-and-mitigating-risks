@@ -1,0 +1,15 @@
+{
+    "name": "navigating-the-legal-landscape-of-ai-in-business-ensuring-compliance-and-mitigating-risks",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "honkit": "^4.0.7"
+    }
+}
