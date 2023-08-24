@@ -1,5 +1,3 @@
-What is AI and How Does it Work in Business?
-================================================================================================================
 
 In this chapter, we will explore the basics of AI technology and how it works in business. This understanding is essential to appreciate the legal implications of AI implementation in business.
 

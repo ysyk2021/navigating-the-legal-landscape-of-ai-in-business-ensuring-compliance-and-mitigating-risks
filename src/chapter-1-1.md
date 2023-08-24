@@ -1,5 +1,3 @@
-The Role of AI in Business
-========================================
 
 Artificial intelligence (AI) technologies are transforming the way businesses operate, providing new opportunities for innovation, growth and competitive edge. By automating processes, analyzing data, and making predictions, AI technologies can help businesses make informed decisions and optimize their operations.
 

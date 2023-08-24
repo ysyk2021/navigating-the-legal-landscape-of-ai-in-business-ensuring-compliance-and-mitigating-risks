@@ -1,5 +1,3 @@
-Examples of Successful Implementation of AI in Compliance with Legal Requirements
-=====================================================================================================================================================
 
 In this chapter, we will explore the legal implications of AI implementation in business and provide examples of successful implementation of AI in compliance with legal requirements.
 
