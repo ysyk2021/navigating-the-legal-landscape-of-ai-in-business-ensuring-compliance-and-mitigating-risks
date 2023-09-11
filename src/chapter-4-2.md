@@ -1,5 +1,4 @@
-Chapter: Best Practices for Protecting Sensitive Data when Using AI in Business
-===============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the best practices for protecting sensitive data when using artificial intelligence (AI) in business. As AI becomes increasingly integrated into various operations, safeguarding sensitive data is paramount to ensure compliance, maintain customer trust, and mitigate risks. By following these best practices, organizations can enhance data protection measures and uphold their legal and ethical responsibilities.
 

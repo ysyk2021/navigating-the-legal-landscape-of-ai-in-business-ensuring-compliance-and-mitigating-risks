@@ -1,5 +1,4 @@
-Chapter: Addressing Concerns about Bias and Transparency when Using AI in Business Practices
-============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the critical concerns surrounding bias and transparency when using artificial intelligence (AI) in business practices. We will explore why these concerns arise, the potential risks they pose, and provide strategies for addressing them effectively. By prioritizing fairness and transparency, businesses can mitigate bias and build trust with their stakeholders.
 

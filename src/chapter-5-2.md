@@ -1,5 +1,4 @@
-Chapter: Strategies for Protecting Intellectual Property when Using AI in Business
-==================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will discuss strategies for effectively protecting intellectual property (IP) when utilizing artificial intelligence (AI) in business. Given the increasing reliance on AI technologies and the potential risks associated with IP infringement, it is crucial for organizations to implement robust strategies that safeguard their valuable innovations and creative works.
 

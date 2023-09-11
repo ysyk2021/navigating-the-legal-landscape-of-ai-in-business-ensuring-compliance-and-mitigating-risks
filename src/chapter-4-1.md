@@ -1,5 +1,4 @@
-Chapter: Identifying and Mitigating Privacy Risks Associated with AI in Business
-================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the crucial topic of identifying and mitigating privacy risks associated with the integration of artificial intelligence (AI) in business operations. We will explore the unique challenges that arise when handling personal data in AI systems and provide best practices for ensuring compliance with privacy regulations and safeguarding individuals' privacy rights.
 

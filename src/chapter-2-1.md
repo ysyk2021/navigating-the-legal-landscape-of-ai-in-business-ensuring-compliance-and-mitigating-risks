@@ -1,5 +1,4 @@
-Chapter: What is AI and How Does it Work in Business?
-=====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an overview of artificial intelligence (AI) and its application in business. We will explore the fundamental concepts of AI, its various techniques, and how businesses leverage AI to drive innovation, improve operations, and gain a competitive advantage.
 

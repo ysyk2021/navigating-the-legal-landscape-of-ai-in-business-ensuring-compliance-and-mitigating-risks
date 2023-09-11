@@ -1,5 +1,4 @@
-Chapter: Common Legal Implications of AI, including Data Protection and Intellectual Property
-=============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the common legal implications of artificial intelligence (AI) in business. Specifically, we will focus on two significant areas: data protection and intellectual property rights. Understanding these legal implications is crucial for businesses to navigate the legal landscape effectively, ensure compliance, and mitigate associated risks.
 
